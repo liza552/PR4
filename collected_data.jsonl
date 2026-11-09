@@ -1,0 +1,1 @@
+{"timestamp": "2026-11-09T15:44:57.741048", "dataset": [{"source": 1, "status": "success", "payload": {"metric": 42}}, {"source": 2, "status": "success", "payload": {"metric": 42}}]}
