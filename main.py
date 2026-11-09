@@ -51,7 +51,7 @@ async def main():
         logging.info("Начало новой итерации сбра данных.")
         
         tasks = [
-            fetch_data_source(target["id"], target["url"], timeout=5.0) 
+            fetch_data_source(target["id"], target["url"], timeout=7.0) 
             for target in targets
         ]
         
